@@ -1,7 +1,7 @@
 # Telegram Bot API Binaries (Automated Builds)
 
-[![GitHub Release](https://img.shields.io/github/v/release/coyotle/telegram-bot-api-bin?include_prereleases&style=flat-square)](https://github.com/coyotle/telegram-bot-api-bin/releases)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/coyotle/telegram-bot-api-bin/release-bot-api.yml?style=flat-square)](https://github.com/coyotle/telegram-bot-api-bin/actions)
+[![GitHub Release](https://img.shields.io/github/v/release/UpG-Labs/telegram-bot-api-bin?include_prereleases&style=flat-square)](https://github.com/UpG-Labs/telegram-bot-api-bin/releases)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/UpG-Labs/telegram-bot-api-bin/release-bot-api.yml?style=flat-square)](https://github.com/UpG-Labs/telegram-bot-api-bin/actions)
 
 Automated builds of **[Telegram Bot API](https://core.telegram.org/bots/api)** for Linux.  
 New versions are published here within 24 hours of updates to the official [API Changelog](https://core.telegram.org/bots/api-changelog).
@@ -13,7 +13,7 @@ New versions are published here within 24 hours of updates to the official [API 
 ### Download the Latest Binary
 
 ```bash
-wget https://github.com/coyotle/telegram-bot-api-bin/releases/latest/download/telegram-bot-api
+wget https://github.com/UpG-Labs/telegram-bot-api-bin/releases/latest/download/telegram-bot-api
 chmod +x telegram-bot-api
 ```
 
